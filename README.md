@@ -1,7 +1,11 @@
-<img src="assets/ruby.png" width="60" />
+<p align="center" >
+  <img src="assets/ruby_1.png" width="100" />
+</p>
 
-# Hello!
-## My name is Natalia and I am glad to welcome you to my page. 👋
+<h1 align="center">Hello 👋 !!!</h1>
+
+<h2 align="center">My name is Natalia and I am glad to welcome you to my page</h2>
+
 ---
 
 ## 🧠 A little about me
